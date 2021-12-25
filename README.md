@@ -1,2 +1,2 @@
-# tutorial-1
-The tutorial from Mozilla
+# Tutorial-1
+The first html, css, js tutorial from Mozilla
